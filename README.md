@@ -13,7 +13,7 @@
 <br>
 
 <div>
-  <h3 align="center">Counter Strike 2 Player by Team Shangri-La</h3>
+  <h3 align="center">Counter Strike 2 Player by Team Boreal</h3>
 </div>
 
 
