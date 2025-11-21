@@ -60,7 +60,7 @@ E sigo assim: evoluindo partida por partida, clutch por clutch, sempre atrás da
   </tr>
   <tr>
     <td>🇦🇷</td>
-    <td>Patagonia PLT</td>
+    <td>Patagonia Open</td>
     <td>#2nd Place 🥈</td>
   </tr>
   <tr>
