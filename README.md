@@ -10,8 +10,17 @@
 </div>
 
 <div>
-  <h1 align="center">Counter Strike 2 Player by Team Boreal</h1>
+  <h1 align="center">
+    Counter Strike 2 Player by Team Boreal<br><br>
+    <img 
+      src="https://github.com/user-attachments/assets/954f2e08-3f45-4f10-a0ae-26d508026336"
+      alt="Image"
+      style="width:80px; vertical-align:middle;"
+    />
+  </h1>
 </div>
+
+
 
 
 <br>
@@ -20,7 +29,7 @@
 
 <div align="center">
 
-<b>Biography</b>
+<h2>Biography</h2>
 <div>
 
 "Minha história começa lá em fevereiro de 2013, quando colei na casa de um amigo e vi ele rodando o velho CS 1.6. Aquele momento foi tipo um highlight mental: tela piscando, teclado barulhento e eu pensando 'tá dando onda demais isso aqui'. Foi ali que o jogo grudou em mim.
