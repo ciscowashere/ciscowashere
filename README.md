@@ -53,26 +53,53 @@ E sigo assim: evoluindo partida por partida, clutch por clutch, sempre atrás da
     <th>Name</th>
     <th>Position</th>
   </tr>
+    
   <tr>
     <td>🇧🇷</td>
-    <td>Circuito PGT BR</td>
-    <td>#3rd Place 🥉</td>
-  </tr>
-  <tr>
-    <td>🇦🇷</td>
-    <td>Patagonia Open</td>
-    <td>#2nd Place 🥈</td>
-  </tr>
-  <tr>
-    <td>🇧🇷</td>
-    <td>PGT Rio Clash</td>
+    <td>Fespop Gaming Arena</td>
     <td>#1st Place 🥇</td>
   </tr>
+  
+</tr>
     <tr>
     <td>🇧🇷</td>
     <td>CWB Even3 Colony</td>
     <td>#1st Place 🥇</td>
   </tr>
+
+<tr>
+    <td>🇧🇷</td>
+    <td>PGT Rio Clash</td>
+    <td>#1st Place 🥇</td>
+  </tr>
+
+<tr>
+    <td>🇦🇷</td>
+    <td>Patagonia Open</td>
+    <td>#2nd Place 🥈</td>
+  </tr>
+
+  <tr>
+    <td>🇧🇴</td>
+    <td>Cochabamba MLG Series</td>
+    <td>#2nd Place 🥈</td>
+  </tr>
+
+<tr>
+    <td>🇧🇷</td>
+    <td>Circuito PGT BR</td>
+    <td>#3rd Place 🥉</td>
+  </tr>
+
+  <tr>
+    <td>🇧🇷</td>
+    <td>2° Nexcube Legends</td>
+    <td>#5th Place</td>
+  </tr>
+  
+  
+  
+  
 </table>
 
 </div>
